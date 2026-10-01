@@ -11,7 +11,7 @@
 推荐直接在 AA 的 `mods` 目录执行：
 
 ```powershell
-git clone https://github.com/Jianmiao/aa-skip-intro.git AASkipIntro
+git clone https://github.com/Jianmiao/AASkipIntro.git
 ```
 
 仓库根目录中的 `0.1.0` 就是 AA 要读取的版本目录，不需要再移动文件。
