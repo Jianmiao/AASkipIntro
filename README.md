@@ -1,6 +1,6 @@
 # 极速启动（AA 开场跳过）
 
-独立的 AA 开场动画跳过 Mod。启用“极速启动”（内部 ID：`AASkipIntro`）后，跳过启动时的 Logo / 作者展示页；
+独立的 AA 开场动画跳过 Mod。启用“极速启动”（Mod 内部 ID：`AASkipIntro`）后，跳过启动时的 Logo / 作者展示页；
 停用并重启 AA 后恢复原样。没有额外设置开关。
 
 保留 AA 的数据库、字体、素材和用户设置初始化，不跳过作品内的片头、标题或转场。
@@ -16,7 +16,7 @@ git clone https://github.com/Jianmiao/AASkipIntro.git
 
 仓库根目录中的 `0.1.0` 就是 AA 要读取的版本目录，不需要再移动文件。
 也可以下载 Release 压缩包，将其中的 `mods/AASkipIntro/0.1.0` 放入 AA 的
-`mods/AASkipIntro`。在 AA 模组管理中启用“极速启动”，然后按 AA 提示重启。
+`mods/AASkipIntro`。在 AA 模组管理中启用 `AASkipIntro`（插件显示名为“极速启动”），然后按 AA 提示重启。
 停用后下一次启动会恢复动画。安装本身不会改变其他 Mod 的启用状态。
 
 ## 验证范围
