@@ -1,5 +1,5 @@
 {
-  "name": "极速启动",
+  "name": "AASkipIntro",
   "version_number": "0.1.0",
   "website_url": "",
   "description": "跳过 AA 启动时的 Logo / 作者开场展示，保留资源初始化。启用生效，停用恢复，无额外开关。",
